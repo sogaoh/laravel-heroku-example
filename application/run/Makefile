@@ -7,6 +7,7 @@ help:
 chmod:
 	docker-compose exec app chmod -R a+w storage
 	docker-compose exec app chmod -R a+w bootstrap/cache
+	docker-compose exec app chmod -R a+w public
 local:
 	\cp -p .env.local .env
 

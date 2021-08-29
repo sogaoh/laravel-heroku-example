@@ -2,6 +2,9 @@
 .DS_Store
 /application/run/.env
 /application/simple-app/.env
+/application/simple-app/public/mix-manifest.json
+/application/simple-app/public/js/app.js
+/application/simple-app/public/css/app.css
 /application/simple-app/vendor
 /application/simple-app/bootstrap/cache
 /application/simple-app/storage/debugbar
