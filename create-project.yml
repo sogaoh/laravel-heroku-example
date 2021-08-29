@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  composer:
+    image: composer:2.0
+    volumes:
+      - ./application/simple-app:/work
+    working_dir: /work
+
