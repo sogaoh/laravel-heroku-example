@@ -1,5 +1,6 @@
 .idea
 .DS_Store
+/application/run/.env
 /application/simple-app/.env
 /application/simple-app/vendor
 /application/simple-app/bootstrap/cache
