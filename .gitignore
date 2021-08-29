@@ -1,2 +1,11 @@
 .idea
 .DS_Store
+/application/simple-app/.env
+/application/simple-app/vendor
+/application/simple-app/bootstrap/cache
+/application/simple-app/storage/debugbar
+/application/simple-app/storage/framework/cache
+/application/simple-app/storage/framework/sessions
+/application/simple-app/storage/framework/testing
+/application/simple-app/storage/framework/views
+/application/simple-app/storage/logs
